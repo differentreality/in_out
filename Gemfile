@@ -12,7 +12,7 @@ gem 'rails', '~> 5.1.4'
 gem 'sqlite3'
 
 # Use mysql as the database
-gem 'mysql2'
+# gem 'mysql2'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
